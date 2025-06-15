@@ -8,11 +8,11 @@
 
 ![ratingeater's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratingeater&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-**Recent MCP Projects**
+**Recent Projects**
 
-- [Chrome Connect](https://github.com/ratingeater/chrome-connect): Chrome MCP proxy for browser automation
+- **Chrome Connect**: Chrome MCP proxy for browser automation (Private Development)
 
-- [MCP Proxy Server](https://github.com/ratingeater/mcp-proxy-server): Enhanced MCP proxy with streamable-http support
+- **MCP Proxy Server**: Enhanced MCP proxy with streamable-http support (Private Development)
 
 **Tech Stack**
 
@@ -20,8 +20,13 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,docker,git,github,vscode,chrome" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratingeater/ratingeater/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratingeater/ratingeater/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ratingeater/ratingeater/output/github-contribution-grid-snake.svg" />
-</picture>
+**GitHub Activity**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratingeater&theme=radical&hide_border=true)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ratingeater&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ratingeater?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</div>
