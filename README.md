@@ -24,6 +24,14 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratingeater&theme=radical&hide_border=true)
 
+**Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratingeater/ratingeater/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratingeater/ratingeater/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ratingeater/ratingeater/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 <div align="center">
